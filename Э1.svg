@@ -31,9 +31,9 @@
      guideopacity="0.6"
      guidehicolor="#1a0000"
      guidehiopacity="0.49803922"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="514.74999"
-     inkscape:cy="300.24999"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="611.68747"
+     inkscape:cy="345.68748"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -348,13 +348,13 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 652.84476,354.8189 3.77953,-3.77952"
+       d="m 652.84476,351.03938 3.77953,3.77952"
        id="path1441"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 653.22271,354.8189 -3.77953,-3.77952"
+       d="m 653.22271,351.03938 -3.77953,3.77952"
        id="path1443"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
@@ -633,28 +633,32 @@
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <g
-       id="g6178"
-       transform="matrix(1.0005129,0,0,0.97222219,-0.71240455,6.9816442)">
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 652.53545,264.94488 v -27.2126"
-         id="path604-7-0"
-         inkscape:connector-type="polyline"
-         inkscape:connector-curvature="0" />
+       id="g570"
+       transform="matrix(1,0,0,-1,0,502.67718)">
       <g
-         id="g6172">
+         id="g6178"
+         transform="matrix(1.0005129,0,0,0.97222219,-0.71240455,6.9816442)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-           d="m 652.34475,249.44882 3.77953,3.77952"
-           id="path1441-3"
+           d="m 652.53545,264.94488 v -27.2126"
+           id="path604-7-0"
            inkscape:connector-type="polyline"
            inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-           d="m 652.7227,249.44882 -3.77953,3.77952"
-           id="path1443-9"
-           inkscape:connector-type="polyline"
-           inkscape:connector-curvature="0" />
+        <g
+           id="g6172">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+             d="m 652.34475,249.44882 3.77953,3.77952"
+             id="path1441-3"
+             inkscape:connector-type="polyline"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+             d="m 652.7227,249.44882 -3.77953,3.77952"
+             id="path1443-9"
+             inkscape:connector-type="polyline"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
     </g>
     <path
@@ -730,7 +734,7 @@
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 415.75018,313.64512 207.87167,0.0271"
        id="path1066-6"
        inkscape:connector-type="polyline"
@@ -1028,7 +1032,7 @@
            id="tspan10153"
            x="269.90552"
            y="300.58267"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#030303;fill-opacity:1;stroke-width:0;stroke-dasharray:none">5...75 В</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#030303;fill-opacity:1;stroke-width:0;stroke-dasharray:none">8...36 В</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.27275;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -1103,37 +1107,37 @@
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 623.62205,291.02363 v -7.55906"
        id="path1137"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 623.62205,283.46457 3.77953,3.77953"
        id="path1139"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 619.84252,287.2441 3.77953,-3.77953"
        id="path1141"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 623.62205,313.70079 v 7.55906"
        id="path1143"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 619.84252,317.48032 3.77953,3.77953"
        id="path1145"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 627.40158,317.48032 -3.77953,3.77953"
        id="path1147"
        inkscape:connector-type="polyline"
@@ -1181,13 +1185,13 @@
            y="258.69711">ЦП </tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 476.22048,215.43308 v 151.1811"
        id="path3537"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 476.22048,366.61418 h 15.11811"
        id="path3541"
        inkscape:connector-type="polyline"
@@ -1230,7 +1234,7 @@
        rx="0.8589834"
        ry="0.85898328" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.37795277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="M 464.88189,177.63779 H 548.0315"
        id="path3698"
        inkscape:connector-type="polyline"
@@ -1284,7 +1288,7 @@
            id="tspan10153-6"
            x="269.90552"
            y="300.58267"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#030303;fill-opacity:1;stroke-width:0;stroke-dasharray:none">5...75 В</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#030303;fill-opacity:1;stroke-width:0;stroke-dasharray:none">8...36 В</tspan></text>
     </g>
   </g>
 </svg>
