@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ОпределениеВедущегоПоРадиоканалу.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.496633"
+     inkscape:cx="466.04612"
+     inkscape:cy="170.04837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid954"
+       units="mm"
+       spacingx="0.37795276"
+       spacingy="0.37795276" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.587851;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 638.49792,462.24811 39.50209,-12.2481 39.50209,12.2481 -39.50209,12.24809 z"
+       id="path1021-1-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.587851;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 288.74686,496.12406 39.5021,-12.2481 39.50209,12.2481 -39.50209,12.24809 z"
+       id="path1021-1-3-0-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.587851;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 288.74686,546.12406 39.5021,-12.2481 39.50209,12.2481 -39.50209,12.24809 z"
+       id="path1021-1-3-0-0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect1023-3-5-2"
+       width="95"
+       height="20"
+       x="405"
+       y="510" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="483.77951"
+       y="279.68503"
+       id="text4893"><tspan
+         sodipodi:role="line"
+         id="tspan4891"
+         x="483.77951"
+         y="279.68503" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="550.63214"
+       y="157.8287"
+       id="text4959"><tspan
+         sodipodi:role="line"
+         id="tspan4957"
+         x="550.63214"
+         y="157.8287">Да</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="655.17084"
+       y="60.472443"
+       id="text4963"><tspan
+         sodipodi:role="line"
+         id="tspan4961"
+         x="655.17084"
+         y="60.472443">Нет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="400.62991"
+       y="177.6378"
+       id="text4979"><tspan
+         sodipodi:role="line"
+         id="tspan4977"
+         x="400.62991"
+         y="177.6378">Событие приема</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="657.63782"
+       y="177.6378"
+       id="text4983"><tspan
+         sodipodi:role="line"
+         id="tspan4981"
+         x="657.63782"
+         y="177.6378">Событие передачи</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 362.83465,60.472441 -3.77953,-3.779527"
+       id="path5219" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 359.05512,56.692914 3.77953,3.779527 v 0"
+       id="path5221" />
+    <g
+       id="g5229-5-9"
+       transform="translate(-196.50286,21.063068)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+         id="path5223-2-8" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="M 370.39371,77.480316 V 64.25197"
+         id="path5225-2-1" />
+    </g>
+    <g
+       id="g5229-5-8"
+       transform="translate(7.55905,169.13386)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+         id="path5223-2-9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="M 370.39371,77.480316 V 64.25197"
+         id="path5225-2-17" />
+    </g>
+    <g
+       id="g5764">
+      <g
+         id="g5554"
+         transform="translate(-36.265686,-20.524811)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.966234;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 336.9876,236.54731 77.17551,-16.93713 77.17548,16.93713 -77.17548,16.93713 z"
+           id="path1021" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="414.21844"
+           y="239.73741"
+           id="text4975"><tspan
+             sodipodi:role="line"
+             id="tspan4973"
+             x="414.21844"
+             y="239.73741">Кадр был принят?</tspan></text>
+      </g>
+      <g
+         id="g5559"
+         transform="translate(5.669289,-17.559055)">
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="665.2522"
+           y="242.05536"
+           id="text4971"><tspan
+             sodipodi:role="line"
+             id="tspan4969"
+             x="665.2522"
+             y="242.05536">Кадр был отправлен?</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.12527;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 585.0567,238.86201 80.14016,-22.12185 80.14013,22.12185 -80.14013,22.12184 z"
+           id="path1021-5" />
+      </g>
+      <g
+         id="g5549"
+         transform="translate(0.40199294,6.3453302)">
+        <g
+           id="g5203"
+           transform="translate(6.6456511,4.7014784)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.07755;stroke-dasharray:none;stroke-dashoffset:0.377953"
+             d="m 438.55866,172.26028 79.3033,-20.49891 79.30331,20.49891 -79.30331,20.49888 z"
+             id="path1021-1-3-0" />
+          <text
+             xml:space="preserve"
+             style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+             x="517.86194"
+             y="176.80779"
+             id="text4967"><tspan
+               sodipodi:role="line"
+               id="tspan4965"
+               x="517.86194"
+               y="176.80779">Какое из событий</tspan></text>
+        </g>
+        <g
+           id="g5475"
+           transform="translate(-4.6588308,-3.687589)">
+          <g
+             id="g5181"
+             transform="translate(0.72334204,-6.9696181)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.03052;stroke-dasharray:none;stroke-dashoffset:0.377953"
+               d="m 449.76378,132.28347 78.67933,-18.89764 78.67932,18.89764 -78.67932,18.89763 z"
+               id="path1021-1" />
+            <text
+               xml:space="preserve"
+               style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+               x="528.44312"
+               y="135.47356"
+               id="text4955"><tspan
+                 sodipodi:role="line"
+                 id="tspan4953"
+                 x="528.44312"
+                 y="135.47356">Произошло событие</tspan></text>
+          </g>
+          <g
+             id="g5316">
+            <g
+               id="g5124"
+               transform="translate(0.03260458,-1.130709)">
+              <rect
+                 style="fill:none;stroke:#000000;stroke-width:0.580239;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                 id="rect1023-3"
+                 width="226.19139"
+                 height="19.797714"
+                 x="416.03815"
+                 y="74.40036" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                 x="529.10126"
+                 y="87.489311"
+                 id="text4951"><tspan
+                   sodipodi:role="line"
+                   id="tspan4949"
+                   x="529.10126"
+                   y="87.489311">Запуск приема с рандомной задержкой</tspan></text>
+            </g>
+            <g
+               id="g5295"
+               transform="translate(-9.0801055)">
+              <g
+                 id="g5114"
+                 transform="translate(9.0931225,-11.430972)">
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:0.479258;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   d="m 476.29482,36.41155 37.75615,-21.29344 h 67.96107 l -37.75615,21.29344 z"
+                   id="path1019" />
+                <text
+                   xml:space="preserve"
+                   style="font-size:13.333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   x="529.16412"
+                   y="30.327997"
+                   id="text4889"
+                   transform="scale(0.99997981,1.0000202)"><tspan
+                     sodipodi:role="line"
+                     id="tspan4887"
+                     x="529.16412"
+                     y="30.327997"
+                     style="stroke-width:0">Начало</tspan></text>
+              </g>
+              <g
+                 id="g5119"
+                 transform="translate(7.9453822,-4.553677)">
+                <rect
+                   style="fill:none;stroke:#000000;stroke-width:0.448371;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   id="rect1023"
+                   width="134.16972"
+                   height="19.929583"
+                   x="463.21631"
+                   y="43.688755" />
+                <text
+                   xml:space="preserve"
+                   style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   x="530.30115"
+                   y="56.879448"
+                   id="text4897"><tspan
+                     sodipodi:role="line"
+                     id="tspan4895"
+                     x="530.30115"
+                     y="56.879448">Инициализация радио</tspan></text>
+              </g>
+              <g
+                 id="g5229"
+                 transform="translate(167.85285,-39.282906)">
+                <path
+                   style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+                   id="path5223" />
+                <path
+                   style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                   d="M 370.39371,77.480316 V 64.25197"
+                   id="path5225" />
+              </g>
+            </g>
+            <g
+               id="g5229-9"
+               transform="translate(158.77274,-4.8655807)">
+              <path
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                 d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+                 id="path5223-9" />
+              <path
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+                 d="M 370.39371,77.480316 V 64.25197"
+                 id="path5225-6" />
+            </g>
+          </g>
+          <g
+             id="g5229-5"
+             transform="translate(158.77274,28.622122)">
+            <path
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+               d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+               id="path5223-2" />
+            <path
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+               d="M 370.39371,77.480316 V 64.25197"
+               id="path5225-2" />
+          </g>
+        </g>
+        <g
+           id="g5229-5-85"
+           transform="translate(154.11391,77.480316)">
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+             d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+             id="path5223-2-0" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+             d="M 370.39371,77.480316 V 64.25197"
+             id="path5225-2-18" />
+        </g>
+      </g>
+      <g
+         id="g5567">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 444.09449,183.30708 h -66.14173 v 15.11811"
+           id="path5561" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 374.17323,194.64567 3.77953,3.77952 3.77953,-3.77952"
+           id="path5563" />
+      </g>
+      <g
+         id="g5567-6"
+         transform="matrix(-1,0,0,1,1048.8189,8.6e-6)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 444.09449,183.30708 h -66.14173 v 15.11811"
+           id="path5561-5" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 374.17323,194.64567 3.77953,3.77952 3.77953,-3.77952"
+           id="path5563-2" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 217.32283,315.2126 3.77953,3.77953 3.77952,-3.77953"
+       id="path5223-2-8-7" />
+    <g
+       id="g5229-5-9-7"
+       transform="translate(300.47244,179.52756)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+         id="path5223-2-8-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="M 370.39371,77.480316 V 64.25197"
+         id="path5225-2-1-6" />
+    </g>
+    <g
+       id="g5958"
+       transform="translate(5.6220732,-5.6692777)">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         x="663.30707"
+         y="273.4263"
+         id="text5919"><tspan
+           sodipodi:role="line"
+           id="tspan5917"
+           x="663.30707"
+           y="273.4263">Сброс и инициализация радио</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         id="rect5953"
+         width="173.85826"
+         height="15.11811"
+         x="576.37793"
+         y="262.67715" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="391.892"
+       y="243.44527"
+       id="text4959-6"><tspan
+         sodipodi:role="line"
+         id="tspan4957-9"
+         x="391.892"
+         y="243.44527">Да</tspan></text>
+    <g
+       id="g6117"
+       transform="translate(-44)">
+      <g
+         id="g5208"
+         transform="translate(-23.811025,-14.535419)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.583943;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           id="rect1023-3-8"
+           width="226.77165"
+           height="20"
+           x="83.149605"
+           y="279.68503" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="196.53543"
+           y="294.24231"
+           id="text5024"><tspan
+             sodipodi:role="line"
+             id="tspan5022"
+             x="196.53543"
+             y="294.24231">Выполнение дополнительных действий</tspan></text>
+      </g>
+      <g
+         id="g5213"
+         transform="translate(29.230997,-18.033814)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.704129;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           id="rect1023-3-5"
+           width="132.53799"
+           height="49.755508"
+           x="124.34124"
+           y="337.09308" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;white-space:pre;inline-size:120.945;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="257.00787"
+           y="136.06299"
+           id="text5028"
+           transform="translate(-66.853303,212.4313)"><tspan
+             x="257.00787"
+             y="136.06299"
+             id="tspan6242">Переход к<tspan
+   y="136.06299"
+   id="tspan6244"> </tspan></tspan><tspan
+             x="257.00787"
+             y="152.72962"
+             id="tspan6246">стандартому режиму<tspan
+   y="152.72962"
+   id="tspan6248"> </tspan></tspan><tspan
+             x="257.00787"
+             y="169.39624"
+             id="tspan6250">работы радио</tspan></text>
+      </g>
+      <g
+         id="g5780"
+         transform="translate(-23.46964,-18.916932)">
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;white-space:pre;inline-size:128.504;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="268.34644"
+           y="60.472439"
+           id="text5016"
+           transform="translate(133.13202,229.56987)"><tspan
+             x="268.34644"
+             y="60.472439"
+             id="tspan6252">Принят кадр<tspan
+   y="60.472439"
+   id="tspan6254"> </tspan></tspan><tspan
+             x="268.34644"
+             y="77.139062"
+             id="tspan6256">MASTER_REQ?</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.24311;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 324.27731,294.52144 77.14509,-28.04545 77.14506,28.04545 -77.14506,28.04549 z"
+           id="path1021-56" />
+      </g>
+      <g
+         id="g5817"
+         transform="translate(-18.89764,-19.448816)">
+        <text
+           xml:space="preserve"
+           style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;white-space:pre;inline-size:128.504;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           x="245.6693"
+           y="94.48819"
+           id="text5020"
+           transform="translate(151.21627,266.76316)"><tspan
+             x="245.6693"
+             y="94.48819"
+             id="tspan6258">Принят кадр<tspan
+   y="94.48819"
+   id="tspan6260"> </tspan></tspan><tspan
+             x="245.6693"
+             y="111.15482"
+             id="tspan6262">SLAVE_RESP?</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.24311;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 319.70531,365.73049 77.14509,-28.04545 77.14506,28.04545 -77.14506,28.04549 z"
+           id="path1021-56-0" />
+      </g>
+      <g
+         id="g5229-5-8-9"
+         transform="translate(7.55905,240)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+           id="path5223-2-9-6" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="M 370.39371,77.480316 V 64.25197"
+           id="path5225-2-17-8" />
+      </g>
+      <g
+         id="g5229-5-9-1"
+         transform="rotate(90,229.41733,134.55118)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+           id="path5223-2-8-2" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="M 370.39371,77.480316 V 64.25197"
+           id="path5225-2-1-5" />
+      </g>
+      <g
+         id="g5229-5-9-1-5"
+         transform="rotate(90,194.07875,169.88976)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="m 366.61418,73.700788 3.77953,3.779528 3.77952,-3.779528"
+           id="path5223-2-8-2-0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-dashoffset:0.377953"
+           d="M 370.39371,77.480316 V 64.25197"
+           id="path5225-2-1-5-4" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.602697;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         d="m 221.10236,318.99213 v -33.6378"
+         id="path5225-2-1-8" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         x="302.62311"
+         y="266.12244"
+         id="text4959-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan4957-9-3"
+           x="302.62311"
+           y="266.12244">Да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         x="301.18335"
+         y="339.24603"
+         id="text4959-6-2"><tspan
+           sodipodi:role="line"
+           id="tspan4957-9-8"
+           x="301.18335"
+           y="339.24603">Да</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+         x="397.07635"
+         y="316.59842"
+         id="text4963-5"><tspan
+           sodipodi:role="line"
+           id="tspan4961-7"
+           x="397.07635"
+           y="316.59842">Нет</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="689.40704"
+       y="253.02386"
+       id="text4963-0"><tspan
+         sodipodi:role="line"
+         id="tspan4961-5"
+         x="689.40704"
+         y="253.02386">Нет</tspan></text>
+  </g>
+</svg>

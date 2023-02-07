@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="рисунок.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0582793"
+     inkscape:cx="208.35709"
+     inkscape:cy="589.16392"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dashoffset:0.377953;stroke-dasharray:none"
+       id="rect234"
+       width="14.692637"
+       height="28.22814"
+       x="4.4916472"
+       y="111.04002" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="11.837965"
+       y="126.36332"
+       id="text1072"><tspan
+         sodipodi:role="line"
+         id="tspan1070"
+         style="stroke-width:0"
+         x="11.837965"
+         y="126.36332">Модем</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dashoffset:0.377953;stroke-dasharray:none"
+       id="rect234-2"
+       width="14.692637"
+       height="28.22814"
+       x="188.10115"
+       y="111.02898" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="195.44746"
+       y="126.35227"
+       id="text1072-7"><tspan
+         sodipodi:role="line"
+         id="tspan1070-4"
+         style="stroke-width:0"
+         x="195.44746"
+         y="126.35227">Модем</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="28.537762"
+       y="132.31044"
+       id="text1150"><tspan
+         sodipodi:role="line"
+         id="tspan1148"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="28.537762"
+         y="132.31044">30 дБм</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 37.988668,133.60552 H 34.307522 19.209168"
+       id="path1152"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dashoffset:0.377953;stroke-dasharray:none"
+       id="rect366-2"
+       width="13.043931"
+       height="4.7432594"
+       x="37.988674"
+       y="131.23389" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="44.510639"
+       y="134.44957"
+       id="text422-9"><tspan
+         sodipodi:role="line"
+         id="tspan420-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="44.510639"
+         y="134.44957">Фидер</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="44.510647"
+       y="129.43988"
+       id="text1203"><tspan
+         sodipodi:role="line"
+         id="tspan1201"
+         style="stroke-width:0"
+         x="44.510647"
+         y="129.43988">-N дБ</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 58.332089,133.60551 H 51.032605"
+       id="path1152-0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1"
+       width="18.496599"
+       height="4.6855102"
+       x="58.367943"
+       y="131.25769" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="67.487915"
+       y="134.81743"
+       id="text1341"><tspan
+         sodipodi:role="line"
+         id="tspan1339"
+         style="stroke-width:0"
+         x="67.487915"
+         y="134.81743">Антенна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="67.450951"
+       y="129.43988"
+       id="text1203-4"><tspan
+         sodipodi:role="line"
+         id="tspan1201-3"
+         style="stroke-width:0"
+         x="67.450951"
+         y="129.43988">+N дБи</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 84.164024,133.60045 H 76.864537"
+       id="path1152-0-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="103.59798"
+       y="134.50806"
+       id="text1337"><tspan
+         sodipodi:role="line"
+         id="tspan1335"
+         style="stroke-width:0"
+         x="103.59798"
+         y="134.50806">Среда распространения</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1-3"
+       width="38.661449"
+       height="4.6994076"
+       x="84.267265"
+       y="131.36716" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="103.59798"
+       y="129.43988"
+       id="text1203-3"><tspan
+         sodipodi:role="line"
+         id="tspan1201-36"
+         style="stroke-width:0"
+         x="103.59798"
+         y="129.43988">-N дБ</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-6"
+       width="13.045245"
+       height="4.7013144"
+       x="156.25024"
+       y="131.3662" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="162.77287"
+       y="134.53928"
+       id="text422-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan420-3-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="162.77287"
+         y="134.53928">Фидер</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="162.9355"
+       y="129.38138"
+       id="text1203-98"><tspan
+         sodipodi:role="line"
+         id="tspan1201-5"
+         style="stroke-width:0"
+         x="162.9355"
+         y="129.38138">-N дБ</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 156.1009,133.71687 h -7.43117"
+       id="path1152-0-9" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1-7"
+       width="18.496599"
+       height="4.6855102"
+       x="130.17174"
+       y="131.3741" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="139.2917"
+       y="134.93384"
+       id="text1341-4"><tspan
+         sodipodi:role="line"
+         id="tspan1339-7"
+         style="stroke-width:0"
+         x="139.2917"
+         y="134.93384">Антенна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="139.12733"
+       y="129.26187"
+       id="text1203-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan1201-3-3"
+         style="stroke-width:0"
+         x="139.12733"
+         y="129.26187">+N дБи</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 130.18413,133.69522 h -7.29948"
+       id="path1152-0-7-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 188.08534,133.71686 h -3.68115 -15.09835"
+       id="path1152-9"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="28.537762"
+       y="118.28836"
+       id="text1150-9"><tspan
+         sodipodi:role="line"
+         id="tspan1148-3"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="28.537762"
+         y="118.28836">30 дБм</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 37.988668,119.58344 H 34.307522 19.209168"
+       id="path1152-94"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dashoffset:0.377953;stroke-dasharray:none"
+       id="rect366-2-2"
+       width="13.043931"
+       height="4.7432594"
+       x="37.988674"
+       y="117.21181" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="44.510639"
+       y="120.42749"
+       id="text422-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan420-3-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="44.510639"
+         y="120.42749">Фидер</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="44.510647"
+       y="115.4178"
+       id="text1203-32"><tspan
+         sodipodi:role="line"
+         id="tspan1201-91"
+         style="stroke-width:0"
+         x="44.510647"
+         y="115.4178">-N дБ</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 58.332089,119.58343 H 51.032605"
+       id="path1152-0-1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1-0"
+       width="18.496599"
+       height="4.6855102"
+       x="58.367943"
+       y="117.23561" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="67.487915"
+       y="120.79535"
+       id="text1341-7"><tspan
+         sodipodi:role="line"
+         id="tspan1339-2"
+         style="stroke-width:0"
+         x="67.487915"
+         y="120.79535">Антенна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="67.450951"
+       y="115.4178"
+       id="text1203-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan1201-3-0"
+         style="stroke-width:0"
+         x="67.450951"
+         y="115.4178">+N дБи</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="M 84.164024,119.57837 H 76.864537"
+       id="path1152-0-7-1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="103.59798"
+       y="120.48598"
+       id="text1337-2"><tspan
+         sodipodi:role="line"
+         id="tspan1335-6"
+         style="stroke-width:0"
+         x="103.59798"
+         y="120.48598">Среда распространения</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1-3-1"
+       width="38.662041"
+       height="4.6808233"
+       x="84.266968"
+       y="117.30151" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="103.59798"
+       y="115.4178"
+       id="text1203-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan1201-36-0"
+         style="stroke-width:0"
+         x="103.59798"
+         y="115.4178">-N дБ</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-6-0"
+       width="13.045245"
+       height="4.7013144"
+       x="156.18864"
+       y="117.28168" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="162.62288"
+       y="120.57951"
+       id="text422-9-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan420-3-3-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="162.62288"
+         y="120.57951">Фидер</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="162.78551"
+       y="115.42161"
+       id="text1203-98-2"><tspan
+         sodipodi:role="line"
+         id="tspan1201-5-5"
+         style="stroke-width:0"
+         x="162.78551"
+         y="115.42161">-N дБ</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 130.36018,119.64193 h -7.43117"
+       id="path1152-0-9-7" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       id="rect366-2-1-7-2"
+       width="18.496599"
+       height="4.6855102"
+       x="130.34137"
+       y="117.28958" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="139.60631"
+       y="120.8589"
+       id="text1341-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan1339-7-4"
+         style="stroke-width:0"
+         x="139.60631"
+         y="120.8589">Антенна</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="139.44194"
+       y="115.18694"
+       id="text1203-4-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan1201-3-3-8"
+         style="stroke-width:0"
+         x="139.44194"
+         y="115.18694">+N дБи</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 156.1009,119.73544 h -7.29948"
+       id="path1152-0-7-6-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       d="m 188.08534,119.69478 h -3.68115 -15.09835"
+       id="path1152-9-8"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="178.73857"
+       y="117.7951"
+       id="text1150-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan1148-3-5"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="178.73857"
+         y="117.7951">N дБм</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'GOST type B';-inkscape-font-specification:'GOST type B, Normal';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0.377953"
+       x="178.73857"
+       y="131.40759"
+       id="text1150-9-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan1148-3-5-1"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="178.73857"
+         y="131.40759">N дБм</tspan></text>
+  </g>
+</svg>
